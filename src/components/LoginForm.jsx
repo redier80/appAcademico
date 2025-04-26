@@ -57,7 +57,7 @@ const LoginForm = () => {
           <Navbar.Brand className="px-4 py-2">
             <div className="flex items-center gap-3">
               <img
-                src="../public/img/brand.png"
+                src="/img/brand.png"
                 alt="logo"
                 className="h-8 object-contain"
               />
